@@ -1,0 +1,7 @@
+{
+  "/SocialMedia/page": "app/SocialMedia/page.js",
+  "/homepage/page": "app/homepage/page.js",
+  "/currnecny/page": "app/currnecny/page.js",
+  "/Sales/page": "app/Sales/page.js",
+  "/Crypto/page": "app/Crypto/page.js"
+}
